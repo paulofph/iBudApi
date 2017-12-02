@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iBudApi", "iBudApi.csproj", "{7D0419A5-0E20-421B-BF9C-7198DB79F4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0419A5-0E20-421B-BF9C-7198DB79F4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0419A5-0E20-421B-BF9C-7198DB79F4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0419A5-0E20-421B-BF9C-7198DB79F4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0419A5-0E20-421B-BF9C-7198DB79F4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

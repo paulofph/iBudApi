@@ -1,0 +1,11 @@
+/Users/paulo/Documents/projects/iBud/iBudApi/bin/Debug/netcoreapp2.0/iBudApi.deps.json
+/Users/paulo/Documents/projects/iBud/iBudApi/bin/Debug/netcoreapp2.0/iBudApi.runtimeconfig.json
+/Users/paulo/Documents/projects/iBud/iBudApi/bin/Debug/netcoreapp2.0/iBudApi.runtimeconfig.dev.json
+/Users/paulo/Documents/projects/iBud/iBudApi/bin/Debug/netcoreapp2.0/iBudApi.dll
+/Users/paulo/Documents/projects/iBud/iBudApi/bin/Debug/netcoreapp2.0/iBudApi.pdb
+/Users/paulo/Documents/projects/iBud/iBudApi/obj/Debug/netcoreapp2.0/iBudApi.csproj.CoreCompileInputs.cache
+/Users/paulo/Documents/projects/iBud/iBudApi/obj/Debug/netcoreapp2.0/iBudApi.AssemblyInfoInputs.cache
+/Users/paulo/Documents/projects/iBud/iBudApi/obj/Debug/netcoreapp2.0/iBudApi.AssemblyInfo.cs
+/Users/paulo/Documents/projects/iBud/iBudApi/obj/Debug/netcoreapp2.0/iBudApi.dll
+/Users/paulo/Documents/projects/iBud/iBudApi/obj/Debug/netcoreapp2.0/iBudApi.pdb
+/Users/paulo/Documents/projects/iBud/iBudApi/obj/Debug/netcoreapp2.0/iBudApi.csprojResolveAssemblyReference.cache

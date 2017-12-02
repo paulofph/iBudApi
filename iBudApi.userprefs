@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{7D0419A5-0E20-421B-BF9C-7198DB79F4B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="50" Column="15" />
+      <File FileName="Controllers/ValuesController.cs" Line="14" Column="11" />
+      <File FileName="appsettings.json" Line="14" Column="5" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="iBudApi.userprefs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.iBudApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
